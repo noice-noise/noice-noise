@@ -7,9 +7,9 @@
 </p>
 
 
-<!-->
-Reference from Eddie Jaoude's GitHub profile: https://github.com/eddiejaoude/eddiejaoude
-<!-->
+<!---
+    Reference from Eddie Jaoude's GitHub profile: https://github.com/eddiejaoude/eddiejaoude
+--->
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=noice-noise&theme=midnight-purple" />
