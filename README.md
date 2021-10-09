@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <p align="center">
     <img src="/media/banner.png" />
 </p>
@@ -11,3 +7,11 @@
 [![Noise Noice's GitHub stats](https://github-readme-stats.vercel.app/api?username=noice-noise)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align="center">
+    Noice Noise, or "Music" but who cares
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=noice-noise&theme=holi-theme" />
+  <img width="48%" src="(https://github-readme-stats.vercel.app/api?username=noice-noise&theme=holi-themet" />
+</p>
