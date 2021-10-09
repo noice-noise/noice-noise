@@ -17,7 +17,7 @@ Reference from Eddie Jaoude's GitHub profile: https://github.com/eddiejaoude/edd
 <!-->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=noice-noise&theme=holi-theme" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noice-noise&show_icons=true&theme=holi-theme" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=noice-noise&theme=midnight-purple" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noice-noise&show_icons=true&theme=midnight-purple" />
 </p>
 
