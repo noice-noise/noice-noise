@@ -11,7 +11,13 @@
     Noice Noise, or "Music" but who cares
 </p>
 
+
+<!-->
+Reference from Eddie Jaoude's GitHub profile: https://github.com/eddiejaoude/eddiejaoude
+<!-->
+
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=noice-noise&theme=holi-theme" />
-  <img width="48%" src="(https://github-readme-stats.vercel.app/api?username=noice-noise&theme=holi-themet" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noice-noise&show_icons=true&theme=holi-theme" />
 </p>
+
