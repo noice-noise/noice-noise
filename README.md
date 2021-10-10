@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <i>some <b>Noice Noise</b> --- or music if you prefer.</i>
+    <i>It's easy as ctrl C and V, just add some <code>Noice Noise</code>.</i>
 </p>
 
 
