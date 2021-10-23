@@ -4,6 +4,7 @@
 
 <p align="center">
     <i>It's easy as ctrl C and V, just add some <code>Noice Noise</code>.</i>
+    ![](https://komarev.com/ghpvc/?username=noice-noise&color=blueviolet)
 </p>
 
 
