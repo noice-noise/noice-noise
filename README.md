@@ -4,9 +4,8 @@
 
 <p align="center">
     <i>It's easy as ctrl C and V, just add some <code>Noice Noise</code>.</i>
-    ![lost souls](https://komarev.com/ghpvc/?username=noice-noise&color=blueviolet)
 </p>
-
+![lost soulds](https://komarev.com/ghpvc/?username=noice-noise)
 
 <!---
     Reference from Eddie Jaoude's GitHub profile: https://github.com/eddiejaoude/eddiejaoude
