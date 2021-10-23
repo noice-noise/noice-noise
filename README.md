@@ -6,7 +6,9 @@
     <i>It's easy as ctrl C and V, just add some <code>Noice Noise</code>.</i>
 </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=${noice-noise}.${noice-noise}&left_color=#11110F&right_color=#7E3ACE&left_text=LostSouls) 
+<p align="center">
+     <img width="48%" src="https://visitor-badge.glitch.me/badge?page_id=${noice-noise}.${noice-noise}&left_text=LostSouls&left_color=#11110F&right_color=#7E3ACE"/>
+</p>
 
 <!---
     Reference from Eddie Jaoude's GitHub profile: https://github.com/eddiejaoude/eddiejaoude
