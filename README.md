@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-     <img width="10%" src="https://visitor-badge.glitch.me/badge?page_id=${noice-noise}.${noice-noise}left_color=${11110F}&right_color=violet&left_text=LostSouls&" alt="lost souls"/>
+     <img width="10%" src="https://visitor-badge.glitch.me/badge?page_id=${noice-noise}.${noice-noise}left_color=black&right_color=black&left_text=LostSouls&" alt="lost souls"/>
 
 </p>
 
